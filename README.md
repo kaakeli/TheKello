@@ -1,10 +1,7 @@
-# TheKello
----------------------------
-TheKello 0.0.1 
+# TheKello 0.0.1 
+
 ------- BUTTONS -----------
-X = EXIT.
-T = Text color.
-BG = Back ground color.
+X = EXIT. T = Text color. BG = Back ground color. 
 TP = Transperancy (Chooce desired location first!).
 Clock = Clock font & size.
 
@@ -15,9 +12,7 @@ Make a shortcut 'TheKello.exe' and move it to  startup folder *.
 
 * C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
   (for all users)
-
 OR
-
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Start-up
 
 ------- Known Issues ----------
