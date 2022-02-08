@@ -1,6 +1,6 @@
 # TheKello 0.0.1 
 
-------- BUTTONS -----------
+// BUTTONS //
 X = EXIT. T = Text color. BG = Back ground color. 
 TP = Transperancy (Chooce desired location first!).
 Clock = Clock font & size.
@@ -15,7 +15,7 @@ Make a shortcut 'TheKello.exe' and move it to  startup folder *.
 OR
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Start-up
 
-------- Known Issues ----------
+// Known Issues //
 
 - If transperancy are enableded, you cant move form.
 - Can't disable transperancy.
