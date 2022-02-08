@@ -1,10 +1,8 @@
 # TheKello 0.0.1 
 
 // BUTTONS //
-X = EXIT. T = Text color. BG = Back ground color. 
-TP = Transperancy (Chooce desired location first!).
-Clock = Clock font & size.
 
+X = EXIT | T = Text color | BG = Back ground color | TP = Transperancy | Clock = Clock font & size.
 ---------------------------
 Auto run on Windows Startup.
 
