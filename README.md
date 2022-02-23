@@ -1,9 +1,8 @@
 # TheKello 0.1.1 
 
 Download TheKello_0.1.1.zip
-
+---------------------------
 // BUTTONS //
-
 X = EXIT | T = Text color | BG = Back ground color | TP = Transperancy | Clock = Clock font & size.
 ---------------------------
 Auto run on Windows Startup.
