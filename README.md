@@ -2,7 +2,7 @@
 
 Download TheKello_0.1.1.zip
 ---------------------------
-![image](https://user-images.githubusercontent.com/60170508/155408833-5b99edc9-489f-4e4d-ae1c-feff0e9469cf.png) ![image](https://user-images.githubusercontent.com/60170508/155409199-e7689826-eff6-450c-ab0c-249fd2419e53.png)
+![image](https://user-images.githubusercontent.com/60170508/155408833-5b99edc9-489f-4e4d-ae1c-feff0e9469cf.png) ![image](https://user-images.githubusercontent.com/60170508/155409502-94499472-9c27-42eb-82f8-5c549ef8442e.png)
 
 
 // BUTTONS //
