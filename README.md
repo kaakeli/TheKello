@@ -2,6 +2,9 @@
 
 Download TheKello_0.1.1.zip
 ---------------------------
+![image](https://user-images.githubusercontent.com/60170508/155408833-5b99edc9-489f-4e4d-ae1c-feff0e9469cf.png) ![image](https://user-images.githubusercontent.com/60170508/155409199-e7689826-eff6-450c-ab0c-249fd2419e53.png)
+
+
 // BUTTONS //
 
 
@@ -20,3 +23,5 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Start-up
 - Can't disable transperancy.
 - No save for app settings.
 - Some visual bugs.
+
+
