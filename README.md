@@ -2,6 +2,10 @@
 
 Download TheKello_0.1.1.zip  /  TheKello_0.1.1_WinArm.zip
 ---------------------------
+![image](https://user-images.githubusercontent.com/60170508/155415802-8c2085c2-57f2-4a5a-ac79-a9c494c1fdc6.png)
+![image](https://user-images.githubusercontent.com/60170508/155416005-fb8b14e4-53cc-484b-903e-64d72f0e0645.png)
+
+
 
 
 // BUTTONS //
