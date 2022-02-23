@@ -1,6 +1,6 @@
-# TheKello 0.0.1 
+# TheKello 0.1.1 
 
-Download thekello.zip
+Download thekello_0.0.1.zip
 
 // BUTTONS //
 
