@@ -16,7 +16,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Start-up
 
   // Known Issues //
 
-- If transperancy are enableded, you cant move form.
+- If transperancy are enableded, you can't move form.
 - Can't disable transperancy.
 - No save for app settings.
 - Some visual bugs.
