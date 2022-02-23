@@ -1,6 +1,6 @@
 # TheKello 0.1.1 
 
-Download TheKello_0.1.1.zip / TheKello_0.1.1_WinArm.zip
+Download TheKello_0.1.1.zip  OR  TheKello_0.1.1_WinArm.zip
 ---------------------------
 
 
