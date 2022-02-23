@@ -1,5 +1,7 @@
 # TheKello 0.0.1 
 
+Download thekello.zip
+
 // BUTTONS //
 
 X = EXIT | T = Text color | BG = Back ground color | TP = Transperancy | Clock = Clock font & size.
